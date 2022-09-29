@@ -15,9 +15,17 @@ public class Week2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        // System.out.println ("Hello git");
-         System.out.println ("Hello 2nd Branch");
-        
+<<<<<<< HEAD
+        System.out.println ("Hello Class!");
+=======
+        //System.out.println ("Hello git");
+>>>>>>> 2nd-branch
+        System.out.println ("Hello 2nd Branch!");
+        System.out.println ("Hello 2nd Branch!");
+        System.out.println ("Hello 2nd Branch!");
+        System.out.println ("Hello 2nd Branch!");
+        System.out.println ("Hello 2nd Branch!");
+        System.out.println ("Hello 2nd Branch!");
     }
     
 }
